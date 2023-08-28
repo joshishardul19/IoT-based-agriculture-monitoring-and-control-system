@@ -1,0 +1,1 @@
+python3 AWS_DHT_RPI.py --topic projrpidht --ca_file ~/certs/AmazonRootCA1.pem --cert ~/certs/certificate.pem.crt --key ~/certs/private.pem.key --endpoint ai6a62ktsux6m-ats.iot.ap-south-1.amazonaws.com
